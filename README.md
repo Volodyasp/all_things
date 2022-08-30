@@ -4,7 +4,7 @@
 Папка "RSGAN telegram bot" содержит проект телеграмм бота, улучшающего качество фотографий на основе архетектуры RSGAN.
 
 
-Папка "Курс Deep Learning на stepik" содержит домашние работы курса https://stepik.org/course/101721/syllabus, посвещенного основным архетектурам сверточных нейронных сетей.
+Папка "Курс Deep Learning на stepik" содержит домашние работы курса https://stepik.org/course/101721/syllabus, посвещенного computer vision.
 
 
 Папка "Leetcode" содержит прорешанные задачи по алгоритмам на платформе https://leetcode.com/. 
